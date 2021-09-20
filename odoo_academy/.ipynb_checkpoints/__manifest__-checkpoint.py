@@ -6,28 +6,28 @@
   'summary':"""Academy app to manage Training""",
  
   'description':"""
-  Academy Module to manage Training:
-  *Courses
-  *sessions
-  *Attendees
- """,
+      Academy Module to manage Training:
+      -Courses
+      -sessions
+      -Attendees
+  """,
     
- 'author':'Odoo',
+  'author':'Odoo',
     
- 'website': 'https://www.odoo.com',
+  'website': 'https://www.odoo.com',
     
- 'category': 'Training',
- 'vesrsion':'0.1',
+  'category': 'Training',
+  'vesrsion':'0.1',
  
- 'depends':['base'],
+  'depends':['base'],
  
- 'data':[
+  'data':[
     
  
- ],
+   ],
     
- 'demo':[
+  'demo':[
+      'demo/academy_demo.xml',
      
- 
-  ],
+   ],
 } 
